@@ -1,0 +1,3 @@
+Assignment 5 had us create the classroom repository, we cloned that into the local repo through VS code using GIT: Clone and then we edited the main.py file to have it print CS110
+We then committed and pushed the changes to the repo
+Assignment 6 had us add a flowchart and a .md file which I am currently writing on, the flowchart feature was very cool I didn't know you could do that through VS Code, I will be using it a lot. I copied the flowchart that was given and I am going to upload this to GitHub
